@@ -20,6 +20,7 @@ header h1 {
   font-size: 48px;
 }
 
+/* Color of span class is different from entire header */
 header h1 .seo {
   color: #d9dcd6;
 }
@@ -32,10 +33,12 @@ nav {
   font-size: 20px;
 }
 
+/* Navigation links do not have bullets */
 header nav ul {
   list-style-type: none;
 }
 
+/* Navigation links are in a single line with margin space between */
 header nav ul li {
   display: inline-block;
   margin-left: 25px;
@@ -60,6 +63,7 @@ h3 {
   text-align: center;
 }
 
+/* hero class contains background image link and styling */
 .hero {
   height: 800px;
   width: 100%;
@@ -69,12 +73,14 @@ h3 {
   background-position: center;
 }
 
+/* Main section contains relatively wider blocks to the left */
 main {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
+/* Each block within the main section have background color and font for body */
 main section {
   margin-bottom: 20px;
   padding: 50px;
@@ -84,20 +90,24 @@ main section {
   color: #ffffff;
 }
 
+/* Main section image has specific height */
 main img {
   max-height: 200px;
 }
 
+/* Float-left class floats to the left */
 .float-left {
   float: left;
   margin-right: 25px;
 }
 
+/* Float-right class floats to the right */
 .float-right {
   float: right;
   margin-left: 25px;
 }
 
+/* Aside contains relatively narrower block with specific background color and font for body */
 aside {
   margin-right: 20px;
   padding: 20px;
@@ -109,11 +119,13 @@ aside {
   background-color: #2589bd;
 }
 
+/* Each block within the aside section have bottom margins */
 aside section {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
+/* Each aside image has specfic height */
 aside img {
   display: block;
   margin: 10px auto;
@@ -127,6 +139,7 @@ footer {
   text-align: center;
 }
 
+/* Footer h2 is is different from h2 */
 footer h2 {
   font-size: 20px;
 }
