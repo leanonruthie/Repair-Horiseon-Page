@@ -17,4 +17,4 @@ THEN I follow a recognizable rational hierarchy and organization
 
 ## Link
 
-<a href=https://leanonruthie.github.io/Repair-Horiseon-Page>https://leanonruthie.github.io/Repair-Horiseon-Page/</a>
+[My GitHub](https://leanonruthie.github.io/Repair-Horiseon-Page)
